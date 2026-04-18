@@ -45,6 +45,7 @@ Dokumentacja techniczna mechaniki gry realizowanej w silniku Godot.
 | **Insygnia Śmierci II** | **Zakazany Las** | Zakup: `800 G` <br> <small>Sprzedaż: `400 G`</small> | • Teren surowy: `100 G` <br> • Z 1 Chatką: `400 G` <br> • Z 2 Chatkami: `1200 G` <br> • Z 3 Chatkami: `2800 G` <br> • Z 4 Chatkami: `3400 G` <br> • Z Zamkiem: `4000 G` | Chatka: `400 G` <br> Zamek: `400 G` |
 
 <p>3 pole 1 grupy na mapie wzorowanej zajmuje miejsce "income taxi"</p>
+
 ---
 
 ## 🚂 Domy Hogwartu (Stacje) i 🪄 Media (Narzędzia)
