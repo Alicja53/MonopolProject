@@ -1,7 +1,7 @@
 # 🎲 MonopolProject
 
 ## 📌 Opis projektu
-**MonopolProject** to projekt zespołowy polegający na stworzeniu gry inspirowanej klasyczną grą **Monopoly**.  
+**MonopolProject** to projekt zespołowy polegający na stworzeniu gry inspirowanej klasyczną grą **Monopoly** ale o tematyce filmów "Harry Potter".  
 
 ---
 
@@ -38,17 +38,27 @@ W pierwszych dwóch tygodniach planujemy skupić się na przygotowaniu fundament
 
 ---
 
-## 🚀 Cel etapu
+## 🚀 Opisy poszczególnych etapów 
 
 Po zakończeniu pierwszego etapu projekt powinien posiadać:
 
 - jasno określony **plan działania**,
-- (częściowo)przygotowaną **strukturę projektu**,
+- (częściowo) przygotowaną **strukturę projektu**,
 - ustalony **podział obowiązków w zespole**,
 - wstępne przygotowanie do rozpoczęcia implementacji gry.
-
+  
+Po zakończeniu drugiego etapu projekt powinien posiadać:
+- Zaprojektowaną **planszę** i **pionki**
+- mechanike poruszania się
+- Plan dodatkowych elementów gry jak np. Kart
+- Ustalenia co do ekonomii gry
+- Instrukcje gry 
 ---
 
 ## 📂 Status projektu
 
-🔧 **Etap:** Planowanie i przygotowanie projektu
+🔧 **Etap 1:** Planowanie i przygotowanie projektu (Zakończony) 
+🔧 **Etap 2:** Tworzenie grafik, podstawowych mechanik gry oraz dokumentacji 
+
+
+
