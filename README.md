@@ -58,6 +58,7 @@ Po zakończeniu drugiego etapu projekt powinien posiadać:
 ## 📂 Status projektu
 
 🔧 **Etap 1:** Planowanie i przygotowanie projektu (Zakończony) 
+
 🔧 **Etap 2:** Tworzenie grafik, podstawowych mechanik gry oraz dokumentacji 
 
 
