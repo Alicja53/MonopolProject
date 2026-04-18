@@ -52,7 +52,7 @@ Po zakończeniu drugiego etapu projekt powinien posiadać:
 - mechanike poruszania się
 - Plan dodatkowych elementów gry jak np. Kart
 - Ustalenia co do ekonomii gry
-- Instrukcje gry 
+- Ulepszoną dokumentacje gry 
 ---
 
 ## 📂 Status projektu
